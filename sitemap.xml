@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thepapers.newbend.art/muses/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepapers.newbend.art/muses/pasaquan/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <loc>https://thepapers.newbend.art/muses/chess/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepapers.newbend.art/muses/pasaquan/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/birds/</loc>
@@ -152,6 +155,8 @@
     <loc>https://thepapers.newbend.art/life-list-profiles/canada-goose/</loc>
     <lastmod>2014-11-14T17:10:00+00:00</lastmod>
   </url><url>
+    <loc>https://thepapers.newbend.art/01.www.and-them.art/content/artist-profiles/dalton-newbend/</loc>
+  </url><url>
     <loc>https://thepapers.newbend.art/birds/2026.06.30-the-swimming-hole/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/life-list-profiles/brown-headed-cowbird/</loc>
@@ -202,6 +207,8 @@
   </url><url>
     <loc>https://thepapers.newbend.art/templates/people-template/</loc>
   </url><url>
+    <loc>https://thepapers.newbend.art/01.www.and-them.art/</loc>
+  </url><url>
     <loc>https://thepapers.newbend.art/life-list-profiles/barred-owl/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/bbq/</loc>
@@ -235,8 +242,6 @@
     <loc>https://thepapers.newbend.art/recipes/custard/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/custard/</loc>
-  </url><url>
-    <loc>https://thepapers.newbend.art/dalton-newbend/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/tags/dessert/</loc>
   </url><url>

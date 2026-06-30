@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icing on the papers</title>
+    <link>http://localhost:1313/tags/icing/</link>
+    <description>Recent content in Icing on the papers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/icing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>perfect icing</title>
+      <link>http://localhost:1313/recipes/perfect-icing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/perfect-icing/</guid>
+      <description>&lt;h4 id=&#34;ingredients&#34;&gt;ingredients&lt;/h4&gt;&#xA;&lt;pre&gt;&lt;code&gt;100g       confectioners sugar&#xA;1    tbs   milk&#xA;1/2  tsp   vanilla&#xA;--------------------------&#xA;*optionals*&#xA;1    tbs   milk (unflavored)&#xA;1    tbs   lemon juice (lemon flavor)&#xA;25g        cocao powder (chocolate)&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h4 id=&#34;instructions&#34;&gt;instructions&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mix all ingredients together thoroughly, keep chilled&lt;/li&gt;&#xA;&lt;li&gt;try flavoring with orange juice, mulled zest, mulled fruit, melted chocolate, instant or brewed coffee &amp;amp; more!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pudding on the papers</title>
-    <link>http://localhost:1313/tags/pudding/</link>
+    <link>https://thepapers.newbend.art/tags/pudding/</link>
     <description>Recent content in Pudding on the papers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/pudding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thepapers.newbend.art/tags/pudding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>custard</title>
-      <link>http://localhost:1313/recipes/custard/</link>
+      <link>https://thepapers.newbend.art/recipes/custard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recipes/custard/</guid>
+      <guid>https://thepapers.newbend.art/recipes/custard/</guid>
       <description>&lt;h4 id=&#34;ingredients&#34;&gt;ingredients&lt;/h4&gt;&#xA;&lt;pre&gt;&lt;code&gt;300 g   sugar&#xA;1 cup   whole milk or fruit juice&#xA;60 g    flour&#xA;8       room temp eggs&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h4 id=&#34;instructions&#34;&gt;instructions&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;notes&#34;&gt;notes&lt;/h4&gt;&#xA;&lt;p&gt;for lemon flavor, add zest of 3 lemons and 1 cup or 240ml fresh lemon juice&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veggies on the papers</title>
-    <link>http://localhost:1313/tags/veggies/</link>
+    <link>https://thepapers.newbend.art/tags/veggies/</link>
     <description>Recent content in Veggies on the papers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/veggies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thepapers.newbend.art/tags/veggies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>veggie stew</title>
-      <link>http://localhost:1313/recipes/veggie-stew/</link>
+      <link>https://thepapers.newbend.art/recipes/veggie-stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recipes/veggie-stew/</guid>
-      <description>&lt;h4 id=&#34;ingredients&#34;&gt;ingredients&lt;/h4&gt;&#xA;&lt;pre&gt;&lt;code&gt;2    cups    pork stock&#xA;1            quartered onion&#xA;1    30oz    can of diced tomatoes&#xA;1    cup     butter beans&#xA;2            cloves minced garlic&#xA;1            can green beans&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h4 id=&#34;instructions&#34;&gt;instructions&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;add [[pork-stock]] to a large stock pot&lt;/li&gt;&#xA;&lt;li&gt;add in all other ingredients&lt;/li&gt;&#xA;&lt;li&gt;simmer for an hour or more&lt;/li&gt;&#xA;&lt;li&gt;serve with a [[lunchroom-sandwich]], [[grilled-cheese]], or &lt;a href=&#34;http://localhost:1313/recipes/easter-biscuits/&#34;&gt;easter-biscuits&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://thepapers.newbend.art/recipes/veggie-stew/</guid>
+      <description>&lt;h4 id=&#34;ingredients&#34;&gt;ingredients&lt;/h4&gt;&#xA;&lt;pre&gt;&lt;code&gt;2    cups    pork stock&#xA;1            quartered onion&#xA;1    30oz    can of diced tomatoes&#xA;1    cup     butter beans&#xA;2            cloves minced garlic&#xA;1            can green beans&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h4 id=&#34;instructions&#34;&gt;instructions&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;add [[pork-stock]] to a large stock pot&lt;/li&gt;&#xA;&lt;li&gt;add in all other ingredients&lt;/li&gt;&#xA;&lt;li&gt;simmer for an hour or more&lt;/li&gt;&#xA;&lt;li&gt;serve with a [[lunchroom-sandwich]], [[grilled-cheese]], or &lt;a href=&#34;https://thepapers.newbend.art/recipes/easter-biscuits/&#34;&gt;easter-biscuits&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

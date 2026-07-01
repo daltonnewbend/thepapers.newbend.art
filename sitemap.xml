@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thepapers.newbend.art/birds/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepapers.newbend.art/birds/2026.06.30-the-swimming-hole/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepapers.newbend.art/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thepapers.newbend.art/muses/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/muses/chess/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepapers.newbend.art/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thepapers.newbend.art/muses/pasaquan/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepapers.newbend.art/birds/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/life-list-profiles/dunlin/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
@@ -104,7 +107,7 @@
     <loc>https://thepapers.newbend.art/life-list-profiles/blue-jay/</loc>
     <lastmod>2024-09-10T08:59:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepapers.newbend.art/journal/a-cool-late--summer-morning/</loc>
+    <loc>https://thepapers.newbend.art/journal/a-cool-late-summer-morning/</loc>
     <lastmod>2024-09-08T08:45:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/journal/northeast-corridor-life/</loc>
@@ -122,7 +125,7 @@
     <loc>https://thepapers.newbend.art/life-list-profiles/brewers-blackbird/</loc>
     <lastmod>2024-05-02T18:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepapers.newbend.art/journal/california-girlie--pops/</loc>
+    <loc>https://thepapers.newbend.art/journal/california-girlie-pops/</loc>
     <lastmod>2024-05-01T11:55:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/journal/the-chattahoochee-valley-beats-like-a-heart/</loc>
@@ -156,8 +159,6 @@
     <lastmod>2014-11-14T17:10:00+00:00</lastmod>
   </url><url>
     <loc>https://thepapers.newbend.art/01.www.and-them.art/content/artist-profiles/dalton-newbend/</loc>
-  </url><url>
-    <loc>https://thepapers.newbend.art/birds/2026.06.30-the-swimming-hole/</loc>
   </url><url>
     <loc>https://thepapers.newbend.art/life-list-profiles/brown-headed-cowbird/</loc>
   </url><url>
